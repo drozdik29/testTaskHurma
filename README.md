@@ -31,4 +31,4 @@ npx wdio
 Ця команда виконає тести, використовуючи конфігурацію, вказану у файлі wdio.conf.js.
 
 
-[repository]: https://github.com/drozdik29/testTaskHurm
+[repository]: https://github.com/drozdik29/testTaskHurma
